@@ -34,7 +34,6 @@ Run techniques separately. Don't ask for all four at once.
 Include relevant context when you paste your analysis:
 
 - Evidence summary with source quality notes
-- IOC list if applicable
 - Timeline of events
 - Previous reporting on this actor/campaign
 
