@@ -4,7 +4,7 @@ System prompts for running Structured Analytic Techniques (SATs) on cyber threat
 
 ## Purpose
 
-Solo CTI analysts lack peer reviewers. SATs like Key Assumptions Check, Analysis of Competing Hypotheses, Devil's Advocacy, and Pre-Mortem require multiple perspectives to work properly. These prompts let you use an LLM as a sparring partner to stress-test your analysis before publication.
+Resource-strapped CTI analysts often lack dependable peer reviewers. SATs like Key Assumptions Check, Analysis of Competing Hypotheses, Devil's Advocacy, and Pre-Mortem require multiple perspectives to work properly. These prompts let you use an LLM as a sparring partner to stress-test your analysis before dissemination.
 
 ## Setup
 
@@ -52,7 +52,3 @@ These techniques come from Richards Heuer and Randolph Pherson's work on intelli
 ## Contributing
 
 Found a better prompt? Open a PR. The structure matters more than the exact words.
-
-## License
-
-MIT
